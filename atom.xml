@@ -1,41 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Zhuayi</title>
+  <title>缘定三生世</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://0611.cc/"/>
-  <updated>2017-03-03T09:55:41.000Z</updated>
+  <updated>2017-03-06T10:29:52.000Z</updated>
   <id>http://0611.cc/</id>
   
   <author>
-    <name>Zhuayi</name>
+    <name>我醒了</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://0611.cc/2017/03/02/hello-world/"/>
-    <id>http://0611.cc/2017/03/02/hello-world/</id>
-    <published>2017-03-02T07:55:00.000Z</published>
-    <updated>2017-03-03T09:55:41.000Z</updated>
+    <title>1.绝地诞生</title>
+    <link href="http://0611.cc/2017/03/06/%E7%BB%9D%E5%9C%B0%E8%AF%9E%E7%94%9F/"/>
+    <id>http://0611.cc/2017/03/06/绝地诞生/</id>
+    <published>2017-03-06T07:55:00.000Z</published>
+    <updated>2017-03-06T10:29:52.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>　　沉睡，对于很多人来说，是一种休息，同时更是一种解脱。但对某些人来说，它却是一种新的开始，云游在梦境中，变幻莫测。却很少有人知道，这是一种真实的脱离肉体的体验，浑浑噩噩的活着，不如做真实的自己。谁又能分辨出什么是梦什么是真，谁又能放任自己随波逐流呢？还不如让它随着流动的时间远去，只停留在意识想静止的那一刻，让其自然的发生。那时，你是否会觉得，一切都像烟花一样精彩，像泡沫一样虚幻，不经意间演绎了一场别人羡慕的故事，而后变成了过眼云烟，永不在有。</p>
+<p>　　自从叶明的记忆从胚胎生长的那一刻起，他就感觉自己与众不同，不是他真的有高深武功、神奇能量，而是他能捕捉时间漏洞，洞察先机。因为他的眼睛能看穿本质，心却不愿承认，他不愿面对丑陋、虚假。心和眼的矛盾每每让他的表情僵硬无比，带给他无穷的痛苦和不解。他开始陷入了深深的沉思，他尝试和自己对话，然而开始了长夜漫漫的闭目思索，开启了他独有的“脱体游戏人间”的沉睡。<br>他自然的躺下来，蜷缩着身体，犹如一个婴儿的姿态慢慢的沉睡，时间在他旁边流动着，穿梭着，直等他的意识静止的那一刻，才会重新诞生。</p>
+<p>　　密布星辰的月夜突然下起了流星雨，其间金光飞速穿行，原来是一条金色烟雾幻化的长龙，它扭动着身体快速穿梭在流星雨之间，金光照亮了森林深处，炫飞闪爬起来狂吠不止，被吵醒的欧阳子迅速站起身，拿起三尖两刃神锋，脚一蹬腾空而起，飞至空中想要查个究竟，这时长龙冲天呼啸而上，欧阳子两指在额头上一抹，天眼闪烁打开放射出紫金色光芒射向长龙身体，以为会看清此物的原形，不料紫金光穿透长龙身体而去，长龙毫无大碍，欧阳子自言道：“这龙甚是奇怪，是何等神物，不能让它横行于此扰乱天际”，欧阳子说时迟那时快一转身飞抵长龙身边，直追它飞往天际，借助三尖两刃神锋的神器左杀右砍长龙，从长龙的颈部上下左右穿梭狂砍不止，被砍断的长龙身体，金色烟雾瞬间又重新组合，千钧一发之际长龙突然调转龙头张开大口朝向欧阳子追去，速度奇快无比，欧阳子来不及躲闪被吞没进长龙肚内，他使出绝招“千变万化”，变鹰、变狮子、变麒麟，变出千种模样都无法逃离此处，灵机一动他变成一条小金龙，顺着长龙头部飞去，这时，突然强光放射，长龙瞬间解体将小金龙包围在体内，炫飞闪狂吠的进攻，看到欧阳子被包裹在金雾里，它飞过去想冲散金雾解救欧阳子，但此时已晚，金色雾气渐变式的形成外壳，炫飞闪撞晕跌入树林里，如同鸡蛋形状的物体在空中形成后也掉落进森林深处。</p>
+<p>　　炫飞闪趴在透明的金蛋上“嗷嗷”的呼叫，像婴儿一样蜷缩的欧阳子在金蛋里迟迟还未苏醒，他脸部轮廓清晰，双眸紧闭，表情舒畅没有一丝痛苦的模样，双手护膝，长辫子从颈部垂涎到腰部，似乎比之前更加帅气具有韵味了许多，炫飞闪也发现了一些细节，金蛋里的人是不是自己的主人已分辨不清，但是看到外形一样却感觉失去了某种东西，它停止了“嗷嗷”叫，歪着脑袋直盯着他，等待苏醒。</p>
+<p>　　过了很久，欧阳子缓缓的睁开眼睛，放松手脚，像伸懒腰一样坐起来，双手趴在金蛋的内侧，他看到炫飞闪，炫飞闪也看着他摇着尾巴，“汪汪”的叫着不停，欧阳子使劲捶打金蛋，但始终无法击破它，着急之处看到金蛋里面的一个金色小龙，这个金色小龙就是欧阳子大战长龙时变化的那只，不过在龙的额头顶部多出一个镶嵌的透明晶体。他拿起金龙用力划破金蛋的边缘，此时小金龙突的发光起来，变的越来越柔软，“嗖”的一下进入了欧阳子额头上，就这样一条金色小龙印在了他的额头，欧阳子惊恐的不停乱摸，用力抠着。这时，欧阳子浑身发烫发光，瞬间冲破金蛋跳跃空中落地后单膝跪地，五指舒展撑起身体，长辫子从腰部滑落下来，炫飞闪也飞快的扑了过来。但欧阳子似乎不认识炫飞闪，他害怕这只狗会咬到自己，踌蹰着不敢向前，炫飞闪欢乐摇着尾巴冲他友好的“汪汪汪”叫着，欧阳子心想：“这只土狗看起来似乎没有什么敌意，长的也很强壮，何不收养起来当成宠物，也能防身呢？”，于是乎，他小心翼翼的伸手抚摸炫飞闪，炫飞闪更加高兴了，伸出舌头疯狂的舔着欧阳子，就这样他们成了“主宠关系”。欧阳子站起身，没想到腿脚轻轻一点飞跃了起来，他从金蛋出生自带轻功，不可思议的眼神和举动让旁边的炫飞闪欢快的转着圈“汪汪”了几声。欧阳子本性贪玩，永远都停不下来，他四顾看看，找出了一条小径，给了炫飞闪一个手势，只见这狗“嗖嗖嗖”的飞串到前方，欧阳子也跑了起来，他们结伴而行跑出了森林深处，朝向前方的小镇奔去。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      醒不来的人生，睡不去的故事，抹不去的记忆，唤不回的灵魂，一个尘封千年的记忆在沉睡中被唤醒，脱离肉体后梦回大都…
     
     </summary>
     
